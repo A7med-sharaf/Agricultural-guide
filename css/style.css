@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+ *{
+    font-family: "Roboto Mono", monospace;
+ }
+//  @font-face {
+//     font-family: ahmed;
+//     src: url("../RobotoMono-VariableFont_wght.ttf");
+//  }
+//  body{
+   
+    
+// }
+.nav-item{
+    font-size: 18px;
+}
+
+section{
+    margin-top: 200px;
+}
+.mapdiv{
+    width:  50%;
+    margin:auto;
+}
+
+.mapdiv path{
+    fill:#34495e;
+    stroke: white;
+    stroke-width:1px ;
+    
+}
+.mapdiv path:hover{
+    fill: rgb(95, 226, 43);
+}
+a{
+    font-size: 19px;
+    text-decoration: none;
+    margin-top: -10px;
+}
+.img-map{
+    width: 30%;
+    height: 145px;
+    border-radius: 50%;
+}
+.card-img{
+    height: 100%;
+    width: 100%;
+}
+.shadow-lg{
+    position:relative;
+}
+.Modern-mechanisms{
+    background-color: #b4ef625b ;
+    /* opacity:0.23; */
+}
+
+.img-Automation{
+    opacity:12;
+}
+.background{
+background-color: #b4ef625b;
+}
+.Ourtwoclients i {
+    margin-right: 12px;
+    margin-bottom: 12px;
+    
+}
+.Ourtwoclients-main{
+    display: flex ;
+    justify-items: center;
+}
+
+.Ourtwoclients ul {
+    list-style-type: none;
+    margin-top: 24px;
+   margin-left: -5px;
+}
+
+.Ourtwoclients ul li{
+    list-style-type: none;
+    margin-bottom: 3px;
+    font-size: large;
+   
+}
+.Ourtwoclients img {
+    width: 12rem;
+    border-radius: 5px;
+    
+}
+.background {
+    padding: 13px 0px;
+    
+}
+
+.footer{
+    background-color: rgb(25, 25, 27);
+    padding: 150px 0px;
+    
+}
+.copyright{
+    background-color: rgb(42, 42, 43);
+    padding: 20px 0px
+}
+.fa-copyright{
+   margin-left: 12px;
+}
+.iocn-footer{
+    color: #161616;
+    font-size: 20px;
+    
+   
+
+}
+.footer .iocn-footer {
+    padding: 10px;
+    background-color: white;
+    margin: 10px;
+    border-radius: 50%;
+
+
+}
+.footer .iocn-footer:hover{
+    
+    background-color: rgb(35, 34, 34);
+    transition: .5s;
+    
+
+
+}
+.footer .iocn-footer:hover {
+    
+    color: rgb(255, 252, 252);
+    transition: .5s;
+    
+
+}
+
+ .footer-icon-cricl{
+     background-color: white;
+     width: 20px;
+     height: 40px;
+ }
+.up{
+    margin-top: 35%;
+     /* background-color: #34495e;/ */
+}
+.up a{
+    background-color: rgb(95, 226, 43);
+    padding: 15px;
+    border-radius: 50%;
+    width: 10px;
+}
+.up  i{
+    color: white;
+    font-size: 25px;
+}
+.news p{
+    width: 90;
+    height: auto;
+}
+
+.line{
+   
+    /* border: 2px solid red; */
+    transform: rotate(90deg);
+    color: black;
+    font-size: 50px;
+    width: 90%;
+}
+.ds{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;}
+
+#videod{
+    display: flex;
+    justify-content: center;
+}

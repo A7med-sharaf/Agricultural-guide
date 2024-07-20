@@ -1,0 +1,14 @@
+work section
+
+meta tag -------------?
+__________________________________
+
+sort text control + c
+
+autoplay 
+muted 
+loop
+------>
+use for with  lablel type input id : 
+target="-blank"
+  
