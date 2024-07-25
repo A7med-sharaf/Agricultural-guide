@@ -1,15 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
  *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
     font-family: "Roboto Mono", monospace;
  }
-//  @font-face {
-//     font-family: ahmed;
-//     src: url("../RobotoMono-VariableFont_wght.ttf");
-//  }
-//  body{
-   
+
+ body{
+   min-height: 100vh;
+   width: 100%;
     
-// }
+}
+
+.p{
+    font-size: 16px;
+    line-height: 23px;
+    
+    font-weight: 600;
+}
 .nav-item{
     font-size: 18px;
 }
@@ -17,9 +25,21 @@
 section{
     margin-top: 200px;
 }
+
+.col-12{
+   
+    display: flex;
+    justify-content: center;
+    align-items: cente
+}
+.back-img{
+    width: 300px;
+    display: none;
+}
 .mapdiv{
-    width:  50%;
-    margin:auto;
+   
+    width:40%;
+    
 }
 
 .mapdiv path{
@@ -55,6 +75,13 @@ a{
 
 .img-Automation{
     opacity:12;
+}
+
+#Automation-services-p{
+    text-align: start;
+ 
+    height: 63vh;
+    overflow: hidden;
 }
 .background{
 background-color: #b4ef625b;
@@ -175,4 +202,23 @@ background-color: #b4ef625b;
 #videod{
     display: flex;
     justify-content: center;
+}
+
+
+
+@media screen and (max-width: 766px) {
+
+    .back-img{
+        width: 500px;
+        display: block;
+    }
+    .mapdiv{
+   
+        display: none;
+        
+        
+    }
+    
+
+    
 }
