@@ -21,7 +21,7 @@ let lang = {
         investor1:"الاستثمار الزراعي",
         investor2:"- الاستثمار في القطاع الزراعي عالميا قد يوفر للمستثمرين عوائد أفضل من الاستثمارات التقليدية كالسندات والأسهم وذلك بفضل زيادة الطلب على الغذاء عالميا.وتشير التوقعات إلى أن أسعار المنتجات الزراعية ستستمر في الارتفاع مما يفتح المجال لتحقيق عوائد استثمارية طويلة الأجل للمستثمرين في هذا القطاع.وسيستمر هذا الازدهار الزراعي في الارتفاع وهو ليس ظاهرة لحظية أو متقلبة مما يعني استمرار ظاهرة ارتفاع الأسعار التي تشهدها الأسواق حاليا.ستشهد الحبوب والأرز والزيوت النباتية والسكر واللحوم ومنتجات الألبان نموا مستمرا مما يمنح المستثمرين إمكانية تحقيق عوائد جيدة والاستثمار في القطاعات الزراعية قد يجلب للمستثمرين عوائد تختلف عن العوائد المحققة من الاستثمار في الأصول التقليدية كالأسهم والسندات.ثانيا: تنوع المناخ في مختلف أنحاء الجمهورية.ثالثا: توفر المواد الخام بكميات كبيرة للمشاريع في الصناعات الغذائية.رابعا: اليمن لديها قوة عاملة تتميز بانخفاض تكلفتها وقدرتها التنافسية ومهاراتها العالية.خامسا: هطول الأمطار بكميات كبيرة في بعض محافظات الجمهورية.سادساً: تتمتع اليمن بموقع استراتيجي يطل مباشرة على خطوط الملاحة البحرية الدولية بين أوروبا وآسيا، كما تعتبر المدخل الرئيسي لشرق أفريقيا.",
         // Automation services
-        auto1:"خدمات الأتمتة ",
+        auto1:"الاليات الحديثة",
         auto2:"الابتكار هو أكثر أهمية في الزراعة الحديثة من أي وقت مضى. تواجه الصناعة ككل تحديات هائلة: من ارتفاع تكاليف الإمدادات ونقص العمالة إلى التغيرات في تفضيلات المستهلكين للشفافية والاستدامة. هناك اعتراف متزايد من شركات الزراعة بأن هناك حاجة إلى حلول فورية لهذه التحديات. لحسن الحظ، تكنولوجيا الزراعة، والمعروفة أيضًا باسم agtech، موجودة هنا. يشير هذا المفهوم الجديد إلى استخدام التكنولوجيا في الزراعة والممارسات الزراعية لزيادة الكفاءة والإنتاجية والاستدامة في إنتاج الغذاء. ويشمل عدة أنواع مختلفة من التقنيات، مثل الزراعة الدقيقة، والري الذكي، والتكنولوجيا الحيوية، والأتمتة. بالإضافة إلى ذلك، هناك تقدم تكنولوجي كبير في مجالات مثل الزراعة الرأسية الداخلية، وتكنولوجيا الثروة الحيوانية، وممارسات الدفيئة الحديثة، والذكاء الاصطناعي، والبلوك تشين، والتي سنستكشفها بمزيد من التفصيل في هذه المقالة.",
         auto3:"احصل على الخدمات",
 
@@ -66,6 +66,7 @@ let lang = {
          news:"الاخبار",
          newsFirst:"أخبار اليوم",
          pre:"لوريم إيبسوم، دولور سيت أميت كونسيكتور أديبيسينج إيليت. Animi، rerum asperiores! معرف، شرح هذا. Aspernatur، recusandae dolor perspiciatis هو السلع الهاربة العاجلة للعمل الهارب. Aspernatur Deserunt vel Libero في بورو؟",
+         typeofmech:"نوع من الآليات الحديثة",
          // footer
          footer11: "حقوق النشر",
          footer22: "(2024) دليل الزراعة السوداني",
@@ -98,7 +99,7 @@ let lang = {
         auto1:"Automation services",
         auto2:"Innovation is more important in modern agriculture than ever before. The industry as a whole is facing huge challenges: from rising costs of supplies and labor shortages to changes in consumer preferences for transparency and sustainability. There is increasing recognition from agriculture corporations that immediate solutions are needed for these challenges. Thankfully agriculture technology, also known as agtech is here This new concept refers to the use of technology in farming and agricultural practices to increase efficiency, productivity, and sustainability in food production. It includes several different types of technologies, such as precision agriculture, smart irrigation, biotechnology, and automation. Additionally, there are significant technological advancements in areas like indoor vertical farming, livestock technology, modern greenhouse practices, artificial intelligence, and blockchain, which we will explore further in this article,",
         auto3:"Get the Sevvices",
-
+       
         // Why you should chooes Us
         why1:" Why you should chooes Us...?",
         why2:"Investing is an effective way to have your money work for you and build wealth. Holding cash and bank savings accounts are considered safe strategies, but investing yourmoney allows it to grow in value over time with the benefit of compounding and long-term growth Whether you invest in stocks, bonds, mutual funds, options, futures, precious metals, real estate, or small businesses, investing is important to generate future income, increase value and equity, and build wealth..",
@@ -138,6 +139,7 @@ let lang = {
         newsFirst:"news of day",
         news:"news of day",
         pre:"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Animi, rerum asperiores! Id, explicabo quis. Aspernatur, recusandae dolor perspiciatis iste fugiat commodi expedita labore fugit. Aspernatur deserunt vel libero at porro?",
+        typeofmech:"type of Modern-mechanisms",
         // footer
         footer11: "Copyright",
         footer22: "2024; sudan Agricultural guide",
