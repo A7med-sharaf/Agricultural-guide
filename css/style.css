@@ -311,5 +311,8 @@ line-height: 29px;
         font-weight: 700; 
         
     }
-   
+   .footer h5{
+    font-size: 18px;
+
+   }
 }
