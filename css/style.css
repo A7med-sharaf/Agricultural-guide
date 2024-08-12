@@ -12,6 +12,11 @@
     
 }
 
+
+
+/* .guide{
+    font-size: 16px;
+} */
 .p{
     font-size: 16px;
     line-height: 23px;
@@ -167,8 +172,9 @@ background-color: #b4ef625b;
      height: 40px;
  }
 .up{
-    margin-top: 35%;
-     /* background-color: #34495e;/ */
+  
+    /* margin-top: 35%; */
+    
 }
 .up a{
     background-color: rgb(95, 226, 43);
@@ -203,13 +209,23 @@ background-color: #b4ef625b;
     display: flex;
     justify-content: center;
 }
+#Investor .p{
+border: 1px solid blue;
+font-size: 18px;
+line-height: 32px;
+}
+.Modern-mechanisms .p{
+    border: 1px solid red;
+font-size: 18px;
+line-height: 29px;
 
+}
 
 
 @media screen and (max-width: 766px) {
 
     .back-img{
-        width: 500px;
+        width: 400px;
         display: block;
     }
     .mapdiv{
@@ -218,7 +234,34 @@ background-color: #b4ef625b;
         
         
     }
-    
 
+    .guide{
+        font-size: 20px;
+    }
+    .carousel-button{
+        font-size: 25px;
+        border: 0px solid white;
+         padding:11px 48px;
+          color:#ffffffef
     
+    }
+    
+    #slider h1{
+        font-size: 25px;
+    }
+
+      
+    #slider p{
+        font-size: 10px;
+        line-height: 25px;
+        font-weight: normal;
+    }
+    .carousel a span ,i{
+        font-size: 20px;
+        /* padding:6px 20px; */
+    }
+    .carousel a span {
+        
+        padding:5px 10px;
+    }
 }

@@ -60,10 +60,12 @@ let lang = {
         carouse4: "دليل زراعي ",
         carouse5: "السودان، سلة خبز العالم، لديه أكبر مساحة من الأراضي الصالحة للزراعة، 200 مليون فدان، منها 64 مليون فدان مزروعة.",
         carouse6: "دليل زراعي",
-        carouse7: "ومن أهم المنتجات الزراعية المصدرة القطن والصمغ العربي والسمسم والفول السوداني والفواكه والخضروات، وتعتبر الصين والمملكة العربية السعودية والإمارات العربية المتحدة والهند ومصر الوجهة الرئيسية للصادرات السودانية.",
+        carouse7:" ومن أهم المنتجات الزراعية المصدرة القطن والصمغ العربي والسمسم والفول السوداني والفواكه والخضروات.",
         carouse8: "اتصل بنا",
 
-
+         news:"الاخبار",
+         newsFirst:"أخبار اليوم",
+         pre:"لوريم إيبسوم، دولور سيت أميت كونسيكتور أديبيسينج إيليت. Animi، rerum asperiores! معرف، شرح هذا. Aspernatur، recusandae dolor perspiciatis هو السلع الهاربة العاجلة للعمل الهارب. Aspernatur Deserunt vel Libero في بورو؟",
          // footer
          footer11: "حقوق النشر",
          footer22: "(2024) دليل الزراعة السوداني",
@@ -129,11 +131,13 @@ let lang = {
         carouse4: "Agricultural guid",
         carouse5: "Sudan, the world's breadbasket, has the most arable land, 200 million acres, of which 64 are cultivated",
         carouse6: "Agricultural guide",
-        carouse7: "The most important exported agricultural products are cotton, gum arabic, sesame, peanuts, fruits and vegetables. The main destination for Sudanese exports is China, Saudi Arabia, the United Arab Emirates, India and Egypt",
+        carouse7: "The most important exported agricultural products are cotton, gum arabic, sesame, peanuts, fruits and vegetables.",
         carouse8: "Contact Us",
 
-
-         
+        news:"News",
+        newsFirst:"news of day",
+        news:"news of day",
+        pre:"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Animi, rerum asperiores! Id, explicabo quis. Aspernatur, recusandae dolor perspiciatis iste fugiat commodi expedita labore fugit. Aspernatur deserunt vel libero at porro?",
         // footer
         footer11: "Copyright",
         footer22: "2024; sudan Agricultural guide",
