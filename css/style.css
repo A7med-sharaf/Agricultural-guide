@@ -311,8 +311,23 @@ line-height: 29px;
         font-weight: 700; 
         
     }
+    .line{
+        /* display: none; */
+        /* border: 2px solid red; */
+        transform: rotate(180deg);
+       
+    }
    .footer h5{
     font-size: 18px;
 
    }
+}
+@media screen and  (min-width: 766px) and (max-width: 991px) {
+
+   .line{
+        /* display: none; */
+        /* border: 2px solid red; */
+        transform: rotate(180deg);
+       
+    } 
 }

@@ -137,7 +137,7 @@ let lang = {
 
         news:"News",
         newsFirst:"news of day",
-        news:"news of day",
+        news:"news",
         pre:"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Animi, rerum asperiores! Id, explicabo quis. Aspernatur, recusandae dolor perspiciatis iste fugiat commodi expedita labore fugit. Aspernatur deserunt vel libero at porro?",
         typeofmech:"type of Modern-mechanisms",
         // footer
