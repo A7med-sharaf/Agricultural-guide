@@ -345,6 +345,16 @@ font-size: 18px;
    #titleofmodren{
     font-size: 2.5rem;
    }
+
+   .pregraph-title{
+font-size: 18px;
+
+}
+
+.pregraph2{
+    font-size: 20px;
+    font-weight: 700;
+}
 }
 @media screen and  (min-width: 766px) and (max-width: 991px) {
 
@@ -354,4 +364,13 @@ font-size: 18px;
         transform: rotate(180deg);
        
     } 
+    .pregraph-title{
+font-size: 18px;
+
+}
+
+.pregraph2{
+    font-size: 20px;
+    font-weight: 700;
+}
 }
