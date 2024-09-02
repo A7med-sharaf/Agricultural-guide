@@ -23,7 +23,7 @@ let lang = {
         // Automation services
         auto1:"الاليات الحديثة",
         auto2:"الابتكار هو أكثر أهمية في الزراعة الحديثة من أي وقت مضى. تواجه الصناعة ككل تحديات هائلة: من ارتفاع تكاليف الإمدادات ونقص العمالة إلى التغيرات في تفضيلات المستهلكين للشفافية والاستدامة. هناك اعتراف متزايد من شركات الزراعة بأن هناك حاجة إلى حلول فورية لهذه التحديات. لحسن الحظ، تكنولوجيا الزراعة، والمعروفة أيضًا باسم agtech، موجودة هنا. يشير هذا المفهوم الجديد إلى استخدام التكنولوجيا في الزراعة والممارسات الزراعية لزيادة الكفاءة والإنتاجية والاستدامة في إنتاج الغذاء. ويشمل عدة أنواع مختلفة من التقنيات، مثل الزراعة الدقيقة، والري الذكي، والتكنولوجيا الحيوية، والأتمتة. بالإضافة إلى ذلك، هناك تقدم تكنولوجي كبير في مجالات مثل الزراعة الرأسية الداخلية، وتكنولوجيا الثروة الحيوانية، وممارسات الدفيئة الحديثة، والذكاء الاصطناعي، والبلوك تشين، والتي سنستكشفها بمزيد من التفصيل في هذه المقالة.",
-        auto3:"احصل على الخدمات",
+        auto3:"أحصل علي مزيد من التفاصيل",
 
         // Why you should chooes Us
         why1:"لماذا يجب عليك اختيارنا...؟",
@@ -98,7 +98,7 @@ let lang = {
         // Automation services
         auto1:"Automation services",
         auto2:"Innovation is more important in modern agriculture than ever before. The industry as a whole is facing huge challenges: from rising costs of supplies and labor shortages to changes in consumer preferences for transparency and sustainability. There is increasing recognition from agriculture corporations that immediate solutions are needed for these challenges. Thankfully agriculture technology, also known as agtech is here This new concept refers to the use of technology in farming and agricultural practices to increase efficiency, productivity, and sustainability in food production. It includes several different types of technologies, such as precision agriculture, smart irrigation, biotechnology, and automation. Additionally, there are significant technological advancements in areas like indoor vertical farming, livestock technology, modern greenhouse practices, artificial intelligence, and blockchain, which we will explore further in this article,",
-        auto3:"Get the Sevvices",
+        auto3:"Get the info ",
        
         // Why you should chooes Us
         why1:" Why you should chooes Us...?",
