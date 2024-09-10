@@ -384,3 +384,28 @@ font-size: 18px;
     width: 100%;
 }
 }
+
+
+
+/* start scrollbar */
+
+::-webkit-scrollbar{
+    width:8px;
+}
+
+::-webkit-scrollbar-track{
+    background: #fff;
+}
+
+::-webkit-scrollbar-track{
+    background: #fff;
+}
+
+::-webkit-scrollbar-thumb{
+    background: #3f3f3f;
+    border-radius:15px
+}
+
+
+
+/* end scrollbar */
