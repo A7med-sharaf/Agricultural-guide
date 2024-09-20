@@ -252,6 +252,8 @@ let lang = {
          footer11: "حقوق النشر",
          footer22: "(2024) دليل الزراعة السوداني",
 
+         Engineering:"شركات الهندسية",
+
 
 
 
@@ -536,7 +538,7 @@ let lang = {
         footer11: "Copyright",
         footer22: "2024; sudan Agricultural guide",
         
-
+        Engineering:"Engineering companies",
         
     }
 }

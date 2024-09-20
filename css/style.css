@@ -114,10 +114,9 @@ background-color: #b4ef625b;
     font-size: large;
    
 }
-.Ourtwoclients img {
-    width: 12rem;
-    border-radius: 5px;
-    
+#clients marquee img {
+   height: 150px;
+    object-fit: contain;
 }
 .background {
     padding: 13px 0px;
@@ -172,17 +171,43 @@ background-color: #b4ef625b;
      width: 20px;
      height: 40px;
  }
-
+.up{
+    position: fixed;
+    top: 50px;
+    right: 10px;
+    z-index: 100;
+}
 .up a{
-    background-color: rgb(95, 226, 43);
-    padding: 15px;
+    background-color: #5fe22b;
+    padding: 20px;
     border-radius: 50%;
     width: 10px;
+    
 }
 .up  i{
     color: white;
     font-size: 25px;
 }
+
+.whatapp {
+    position: fixed;
+    top: 120px;
+    right: 10px;
+    z-index: 100;
+}
+.whatapp a{
+    background-color: rgb(95, 226, 43);
+    padding: 20px;
+    border-radius: 50%;
+    width: 10px;
+
+}
+
+.whatapp i{
+    color: white;
+    font-size: 23px;
+}
+
 .news p{
     width: 90;
     height: auto;
